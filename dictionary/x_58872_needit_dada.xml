@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" db_object_id="32e87b5497543110a899325e6253af34" label="dada" max_length="40" name="x_58872_needit_dada" type="collection">
+        <element label="saitama" max_length="40" name="saitamas" type="string"/>
+    </element>
+</database>
